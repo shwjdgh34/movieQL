@@ -42,6 +42,12 @@ babel은 멋진 코드를 못생긴 코드로 바꿔주는 도구다. 멋진코�
 }
 ```
 
+## node-fetch
+
+> \$yarn add node-fetch
+
+nodejs에서 fetch를 쓸 때 필요하다
+
 ## [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
 
 - 1. Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
