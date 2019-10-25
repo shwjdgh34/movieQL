@@ -48,6 +48,13 @@ babel은 멋진 코드를 못생긴 코드로 바꿔주는 도구다. 멋진코�
 
 nodejs에서 fetch를 쓸 때 필요하다
 
+## axios
+
+> \$yarn add axios
+
+node-fetch를 axios로 바꿨다.
+we can use asynchronous by axios
+
 ## [graphql-yoga](https://github.com/prisma-labs/graphql-yoga)
 
 - 1. Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
