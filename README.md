@@ -4,6 +4,24 @@ Movie API with GraphQL
 
 # Contents
 
+- [movieQL](#movieql)
+- [Contents](#contents)
+  - [Output](#output)
+  - [nodemon](#nodemon)
+  - [babel-node](#babel-node)
+  - [node-fetch](#node-fetch)
+  - [axios](#axios)
+  - [<a href="https://github.com/prisma-labs/graphql-yoga">graphql-yoga</a>](#graphql-yoga)
+  - [GraphQL](#graphql)
+  - [schema](#schema)
+  - [playground](#playground)
+
+## Output
+
+![queries](./image/queries.png)
+![result1](./image/result1.png)
+![result2](./image/result2.png)
+
 ## nodemon
 
 > \$yarn global add nodemon
