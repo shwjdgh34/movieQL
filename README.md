@@ -18,6 +18,9 @@ Movie API with GraphQL
 
 ## Output
 
+Backend for the web site recommending movies with Graphql + Nodejs + REST API.
+backend에서 만든 graphql의 query들을 front-end에서 graphql로 사용함으로써 REST API를 썼을 때 발생하는 over-fetching, under-fetching문제를 해결하여 더욱 간결하게 data를 받아올 수 있다.
+
 ![queries](./image/queries.png)
 ![result1](./image/result1.png)
 ![result2](./image/result2.png)
