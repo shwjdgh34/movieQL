@@ -1,6 +1,18 @@
+const people = [
+  {
+    name: "nick",
+    age: 28,
+    gender: "male"
+  },
+  {
+    name: "nono",
+    age: 18,
+    gender: "female"
+  }
+];
 const resolvers = {
   Query: {
-    hello: (_, { name }) => `Hello ${name || "World"}`
+    people: () => people
   }
 };
 export default resolvers;
