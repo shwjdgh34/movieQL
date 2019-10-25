@@ -116,17 +116,17 @@ underfetching은 어떤 하나를 완성하기 위해 다른 요청들을 해야
 ```
 
 query {
-feed {
-comments
-likeNumber
-}
-notification {
-isRead
-}
-users {
-username
-picture
-}
+    feed {
+        comments
+        likeNumber
+    }
+    notification {
+        isRead
+    }
+    users {
+        username
+        picture
+    }
 }
 
 ```
