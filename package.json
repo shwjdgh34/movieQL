@@ -6,7 +6,7 @@
   "author": "Noh Nick(nossi8128@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.18.3",
     "node-fetch": "^2.6.0"
   },
